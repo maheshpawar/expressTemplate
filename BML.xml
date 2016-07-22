@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="BML" ext="bml" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="yes" Keywords2="yes" Keywords3="yes" Keywords4="yes" Keywords5="yes" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00// 01 02 03/* 04*/</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1">= { } - + ( ) , ; [ ] &lt; &gt;</Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open">{</Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close">}</Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">INT&#x000D;&#x000A;FLOAT&#x000D;&#x000A;STRING&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords2">ACOS&#x000D;&#x000A;ADDDAYS&#x000D;&#x000A;APPEND&#x000D;&#x000A;ASIN&#x000D;&#x000A;ATAN&#x000D;&#x000A;ATOF&#x000D;&#x000A;ATOI&#x000D;&#x000A;BMQL&#x000D;&#x000A;CEIL&#x000D;&#x000A;CONTAINS&#x000D;&#x000A;CONTAINSKEY&#x000D;&#x000A;COS&#x000D;&#x000A;COSH&#x000D;&#x000A;DATETOSTR&#x000D;&#x000A;DICT&#x000D;&#x000A;ENDSWITH&#x000D;&#x000A;EXP&#x000D;&#x000A;FABS&#x000D;&#x000A;FIND&#x000D;&#x000A;FINDINARRAY&#x000D;&#x000A;FMOD&#x000D;&#x000A;GET&#x000D;&#x000A;GETARRAYATTSTRING&#x000D;&#x000A;GETCONFIGATTRVALUE&#x000D;&#x000A;GETDATE&#x000D;&#x000A;GETDIFFINDAYS&#x000D;&#x000A;HYPOT&#x000D;&#x000A;INTEGER&#x000D;&#x000A;ISEMPTY&#x000D;&#x000A;ISLEAP&#x000D;&#x000A;ISNUMBER&#x000D;&#x000A;ISWEEKEND&#x000D;&#x000A;JOIN&#x000D;&#x000A;LEN&#x000D;&#x000A;LN&#x000D;&#x000A;LOG&#x000D;&#x000A;LOWER&#x000D;&#x000A;MAKEURLPARAM&#x000D;&#x000A;MAX&#x000D;&#x000A;MIN&#x000D;&#x000A;MINUSDAYS&#x000D;&#x000A;POW&#x000D;&#x000A;PRINT&#x000D;&#x000A;PUT&#x000D;&#x000A;RANGE&#x000D;&#x000A;REMOVE&#x000D;&#x000A;REPLACE&#x000D;&#x000A;REVERSE&#x000D;&#x000A;ROUND&#x000D;&#x000A;SIN&#x000D;&#x000A;SINH&#x000D;&#x000A;SIZEOFARRAY&#x000D;&#x000A;SORT&#x000D;&#x000A;SPLIT&#x000D;&#x000A;SQRT&#x000D;&#x000A;STARTWITH&#x000D;&#x000A;STRTODATE&#x000D;&#x000A;STRTOJAVADATE&#x000D;&#x000A;SUBSTRING&#x000D;&#x000A;TAN&#x000D;&#x000A;TANH&#x000D;&#x000A;TRIM&#x000D;&#x000A;UPPER&#x000D;&#x000A;URLDATABYGET&#x000D;&#x000A;URLDATABYPOST</Keywords>
+            <Keywords name="Keywords3">RETURN&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords4">AND&#x000D;&#x000A;OR&#x000D;&#x000A;NOT&#x000D;&#x000A;LIKE&#x000D;&#x000A;and&#x000D;&#x000A;or&#x000D;&#x000A;not&#x000D;&#x000A;like</Keywords>
+            <Keywords name="Keywords5">IF&#x000D;&#x000A;ELSE&#x000D;&#x000A;FOR&#x000D;&#x000A;BREAK&#x000D;&#x000A;CONTINUE&#x000D;&#x000A;IN&#x000D;&#x000A;ELIF</Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&quot; 01\ 02&quot; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="Calibri" fontStyle="0" fontSize="12" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="808080" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="808080" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="7600EC" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="0000FF" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="0000FF" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="FF0080" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="53A600" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="FF00FF" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="Arial Black" fontStyle="0" fontSize="12" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="0080C0" bgColor="FFFFFF" fontName="Courier" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
