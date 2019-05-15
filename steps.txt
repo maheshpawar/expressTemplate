@@ -1,10 +1,22 @@
-<nppcrypt version="101">
-<encryption cipher="des" mode="ecb" encoding="base64" />
-<random salt="z98vPj3pt0fn9f1G9fbWdQ==" />
-<key algorithm="pbkdf2" hash="md5" iterations="1000" />
-</nppcrypt>
-TV9qp9fBO4jPVXh31YgXTqFLD1w6atKQuJCVqBXkftEyU9MELxTqKmm7xmF0Oh1JIPFEJVucBxm5ZjR3n/R/q/q6IrXC5uEEoHa9Q1Jm55R/SjiXHezU7Sajt1CcRKHw
-ILLJLZdLYrjALHqU/KZqICTESR9ypFqeQodVK3RabkgQ+1vBjWcMOXvg2Nh+GdK/pLeYZKxxhAEwZjomHSqKK1C3tkeMqsgqVbGeuMxZMJs7ty5qAZScbpsivsI+QHvV
-uixAxIbxRRghOLuDTGonW2IiU6DlB1oQmXy7FQHUt+v3ohtrCP19I/X5zk8wkJ2oAxZApLhzGSP6AJpT8DTNr+0I3lP9kTBliW7v+WArR3gZUV+yy3zbpk1uUt0uZT+Q
-KiJMO+1FKXmyf5GtNb6+048P7VHy62Qa5//DPqOzO4qXjse8xACTjzstdpxjuZUeeWsDYpxGvaWQZrohE+PVq9tlzX27/2MiT23yIJshYsaHPwXYpBZuiRN+cpxGJTes
-4XXArEXwpACASceQRcfaFw91+sydWZjIiFBg6joddAySOb3OS6kE6rJ/ZsqSKLPd6jY4MvwCV+qWGPk5UmAQ9Q==
+Hi 
+
+PFA & follow below steps to add BMI in Notepad++
+
+Save attachment file on your machine
+Open notepad++ 
+-> Language Menu 
+-> Define your language
+-> Click on Import button 
+-> Import the userDefineLang,xml.
+
+“Import Successfully Messege”
+
+-> Then close the notepad++.
+-> Now open the notepad++.
+
+Will find the BML in the Language list.
+Create .bml file .
+Enjoy  By select BML language
+
+Thanks,
+Mahesh Pawar
